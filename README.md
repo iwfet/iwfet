@@ -1,4 +1,7 @@
-## Hey!!! My name is João (iwfet),
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=00F70C&lines=+Eae+!!!+Meu+nome+%C3%A9++Jo%C3%A3o+(iwfet);Desenvolvedor+Back-End">  </a>
+</p>
+
  <div>
   <a href="https://github.com/iwfet">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iwfet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
