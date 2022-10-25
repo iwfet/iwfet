@@ -54,7 +54,7 @@
 ![Sequelize](https://img.shields.io/badge/-sequelize-0D1117?style=for-the-badge&logo=sequelize&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![jestjs](https://img.shields.io/badge/-jestjs-0D1117?style=for-the-badge&logo=jest&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Play Framework](https://img.shields.io/badge/-Play%20Framework-0D1117?style=for-the-badge&logo=Play-Framework&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Play Framework](https://img.shields.io/badge/-Play%20Framework-0D1117?style=for-the-badge&logo=play-framework&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-0D1117?style=for-the-badge&logo=Jenkins&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
@@ -63,6 +63,7 @@
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Play Framework](https://img.shields.io/badge/-Play%20Framework-0D1117?style=for-the-badge&logo=play-framework&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=Spring&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
